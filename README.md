@@ -1,4 +1,5 @@
 # Projet de prédiction des prix immobiliers
+
 # Objectif
 L'objectif de ce projet est de créer un modèle de prédiction des prix immobiliers à partir de données d'annonces immobilières. Nous allons utiliser une base de données de ventes de maisons pour entraîner notre modèle et tester sa performance sur une base de données de test.
 
